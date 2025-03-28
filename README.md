@@ -1,7 +1,7 @@
-# UFO Sightings and Netflix Correlation Analysis
+# UFO Sightings Analysis
 
 ## Project Overview
-This project aims to explore the correlation between UFO sightings and Netflix movie releases. Specifically, it examines whether the release of alien-themed movies on Netflix influences the number of reported UFO sightings and whether countries with higher Netflix subscriptions report more sightings.
+This project aims to explore the relationship between UFO sightings and Netflix movie releases. Specifically, it examines whether the release of alien-themed movies on Netflix influences the number of reported UFO sightings and whether countries with higher Netflix subscriptions report more sightings.
 
 ## Hypotheses
 1. UFO sightings increase in the weeks after Netflix film releases about aliens.
